@@ -16,5 +16,6 @@
             - [栈的应用：表达式求值](AlgorithmBasicCourse/DataStructure/Stack/ExpressionEvaluation.cpp)
         - [队列](AlgorithmBasicCourse/DataStructure/Queue.cpp)
         - [单调栈](AlgorithmBasicCourse/DataStructure/MonotonicStack.cpp)
+        - [单调队列](AlgorithmBasicCourse/DataStructure/MonotonicQueue.cpp)
 - [其他题解](OtherSolutions) &#x2002; 非系统性学习的题目
     - [左孩子右兄弟](OtherSolutions/LeftChildRightBrother.cpp)
