@@ -20,5 +20,6 @@
         - [KMP字符串](Basic/DataStructure/KMP.cpp)
         - [Trie](Basic/DataStructure/Tire)
           - [Trie字符串统计](Basic/DataStructure/Tire/StringStatistics.cpp)
+          - [最大异或对](Basic/DataStructure/Tire/MaximumXorPair.cpp)
 - [其他题解](OtherSolutions) &#x2002; 非系统性学习的题目
     - [左孩子右兄弟](OtherSolutions/LeftChildRightBrother.cpp)
