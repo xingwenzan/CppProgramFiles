@@ -1,4 +1,5 @@
 # CppProgramFiles
+
 我的所有 C++ 相关项目文件
 
 ## 目录及简介
@@ -19,9 +20,10 @@
         - [单调队列](Basic/DataStructure/MonotonicQueue.cpp)
         - [KMP字符串](Basic/DataStructure/KMP.cpp)
         - [Trie](Basic/DataStructure/Tire)
-          - [Trie字符串统计](Basic/DataStructure/Tire/StringStatistics.cpp)
-          - [最大异或对](Basic/DataStructure/Tire/MaximumXorPair.cpp)
+            - [Trie字符串统计](Basic/DataStructure/Tire/StringStatistics.cpp)
+            - [最大异或对](Basic/DataStructure/Tire/MaximumXorPair.cpp)
         - [并查集](Basic/DataStructure/AndLookup)
-          - [合并集合](Basic/DataStructure/AndLookup/MergeCollection.cpp)
+            - [合并集合](Basic/DataStructure/AndLookup/MergeCollection.cpp)
+            - [连通块中点的数量](Basic/DataStructure/AndLookup/ConnectedBlockPointNum.cpp)
 - [其他题解](OtherSolutions) &#x2002; 非系统性学习的题目
     - [左孩子右兄弟](OtherSolutions/LeftChildRightBrother.cpp)
