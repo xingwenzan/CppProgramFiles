@@ -7,4 +7,5 @@ add_executable(AlgorithmCpp main.cpp Basic/BasicAlgorithms/QuickSort/QuickSort.c
         Basic/DataStructure/Tire/StringStatistics.cpp
         Basic/DataStructure/Tire/MaximumXorPair.cpp
         Basic/DataStructure/AndLookup/MergeCollection.cpp
-        Basic/DataStructure/AndLookup/ConnectedBlockPointNum.cpp)
+        Basic/DataStructure/AndLookup/ConnectedBlockPointNum.cpp
+        Basic/DataStructure/AndLookup/FoodChain.cpp)
