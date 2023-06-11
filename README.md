@@ -28,5 +28,6 @@
             - [食物链](Basic/DataStructure/AndLookup/FoodChain.cpp)
         - [堆](Basic/DataStructure/Heap)
             - [堆排序](Basic/DataStructure/Heap/HeapSort.cpp)
+            - [模拟堆](Basic/DataStructure/Heap/MockHeap.cpp)
 - [其他题解](OtherSolutions) &#x2002; 非系统性学习的题目
     - [左孩子右兄弟](OtherSolutions/LeftChildRightBrother.cpp)
