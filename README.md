@@ -30,6 +30,7 @@
             - [堆排序](Basic/DataStructure/Heap/HeapSort.cpp)
             - [模拟堆](Basic/DataStructure/Heap/MockHeap.cpp)
         - [哈希表](Basic/DataStructure/Hash)
-          - [模拟散列表](Basic/DataStructure/Hash/AnalogHash.cpp)
+            - [模拟散列表](Basic/DataStructure/Hash/AnalogHash.cpp)
+            - [字符串哈希](Basic/DataStructure/Hash/StringHash.cpp)
 - [其他题解](OtherSolutions) &#x2002; 非系统性学习的题目
     - [左孩子右兄弟](OtherSolutions/LeftChildRightBrother.cpp)
