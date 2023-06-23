@@ -11,4 +11,4 @@ add_executable(AlgorithmCpp main.cpp Basic/BasicAlgorithms/QuickSort/QuickSort.c
         Basic/DataStructure/AndLookup/FoodChain.cpp
         Basic/DataStructure/Heap/HeapSort.cpp
         Basic/DataStructure/Heap/MockHeap.cpp
-        Basic/DataStructure/Hash/AnalogHash.cpp Basic/DataStructure/Hash/StringHash.cpp)
+        Basic/DataStructure/Hash/AnalogHash.cpp Basic/DataStructure/Hash/StringHash.cpp Basic/SearchAndGraphTheory/DFS/ArrangeNumbers.cpp)
