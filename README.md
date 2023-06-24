@@ -36,5 +36,6 @@
       包括DFS，BFS，树与图的深度优先遍历，树与图的广度优先遍历，拓扑排序，Dijkstra，bellman-ford，spfa，Floyd，Prim，Kruskal，染色法判定二分图，匈牙利算法等内容。
         - [DFS](Basic/SearchAndGraphTheory/DFS)
             - [排列数字](Basic/SearchAndGraphTheory/DFS/ArrangeNumbers.cpp)
+            - [n-皇后问题](Basic/SearchAndGraphTheory/DFS/NQueens.cpp)
 - [其他题解](OtherSolutions) &#x2002; 非系统性学习的题目
     - [左孩子右兄弟](OtherSolutions/LeftChildRightBrother.cpp)
