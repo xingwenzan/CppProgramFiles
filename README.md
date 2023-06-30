@@ -39,5 +39,7 @@
             - [n-皇后问题](Basic/SearchAndGraphTheory/DFS/NQueens.cpp)
         - [BFS](Basic/SearchAndGraphTheory/BFS)
             - [走迷宫](Basic/SearchAndGraphTheory/BFS/MazeWalking.cpp)
+            - [`八数码`](https://www.acwing.com/problem/content/847/) &#x2002; 太麻烦了，这个就不写了吧
+        - [树与图的深度优先遍历](Basic/SearchAndGraphTheory/DFS/DFS.cpp)
 - [其他题解](OtherSolutions) &#x2002; 非系统性学习的题目
     - [左孩子右兄弟](OtherSolutions/LeftChildRightBrother.cpp)
