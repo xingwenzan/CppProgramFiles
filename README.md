@@ -43,5 +43,7 @@
         - [树与图的深度优先遍历](Basic/SearchAndGraphTheory/DFS/DFS.cpp)
         - [树与图的广度优先遍历](Basic/SearchAndGraphTheory/BFS/BFS.cpp)
         - [拓扑排序](Basic/SearchAndGraphTheory/TopologicalSort.cpp)
+        - [Dijkstra](Basic/SearchAndGraphTheory/Dijkstra)
+            - [DijkstraI](Basic/SearchAndGraphTheory/Dijkstra/DijkstraI.cpp)
 - [其他题解](OtherSolutions) &#x2002; 非系统性学习的题目
     - [左孩子右兄弟](OtherSolutions/LeftChildRightBrother.cpp)
