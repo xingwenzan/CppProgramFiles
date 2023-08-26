@@ -46,5 +46,6 @@
         - [Dijkstra](Basic/SearchAndGraphTheory/Dijkstra)
             - [Dijkstra求最短路I](Basic/SearchAndGraphTheory/Dijkstra/DijkstraI.cpp)
             - [Dijkstra求最短路II](Basic/SearchAndGraphTheory/Dijkstra/DijkstraII.cpp)
+        - [bellman ford](Basic/SearchAndGraphTheory/BellmanFord.cpp)
 - [其他题解](OtherSolutions) &#x2002; 非系统性学习的题目
     - [左孩子右兄弟](OtherSolutions/LeftChildRightBrother.cpp)
