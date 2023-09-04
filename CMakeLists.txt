@@ -12,4 +12,5 @@ add_executable(AlgorithmCpp main.cpp Basic/BasicAlgorithms/QuickSort/QuickSort.c
         Basic/DataStructure/Heap/HeapSort.cpp
         Basic/DataStructure/Heap/MockHeap.cpp
         Basic/DataStructure/Hash/AnalogHash.cpp Basic/DataStructure/Hash/StringHash.cpp Basic/SearchAndGraphTheory/DFS/ArrangeNumbers.cpp Basic/SearchAndGraphTheory/DFS/NQueens.cpp Basic/SearchAndGraphTheory/BFS/MazeWalking.cpp Basic/SearchAndGraphTheory/DFS/DFS.cpp Basic/SearchAndGraphTheory/BFS/BFS.cpp Basic/SearchAndGraphTheory/TopologicalSort.cpp Basic/SearchAndGraphTheory/Dijkstra/DijkstraI.cpp Basic/SearchAndGraphTheory/Dijkstra/DijkstraII.cpp
-        Basic/SearchAndGraphTheory/BellmanFord.cpp)
+        Basic/SearchAndGraphTheory/BellmanFord.cpp
+        Basic/SearchAndGraphTheory/SPFA/FindShortestPath.cpp)
