@@ -49,5 +49,6 @@
         - [bellman ford](Basic/SearchAndGraphTheory/BellmanFord.cpp)
         - [spfa](Basic/SearchAndGraphTheory/SPFA)
             - [spfa求最短路](Basic/SearchAndGraphTheory/SPFA/FindShortestPath.cpp)
+            - [spfa判断负环](Basic/SearchAndGraphTheory/SPFA/JudgmentNegativeLoop.cpp)
 - [其他题解](OtherSolutions) &#x2002; 非系统性学习的题目
     - [左孩子右兄弟](OtherSolutions/LeftChildRightBrother.cpp)
