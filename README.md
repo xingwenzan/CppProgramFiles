@@ -52,5 +52,6 @@
             - [spfa判断负环](Basic/SearchAndGraphTheory/SPFA/JudgmentNegativeLoop.cpp)
         - [Floyd](Basic/SearchAndGraphTheory/Floyd.cpp)
         - [Pirm](Basic/SearchAndGraphTheory/Pirm.cpp)
+        - [Kruskal](Basic/SearchAndGraphTheory/Kruskal.cpp)
 - [其他题解](OtherSolutions) &#x2002; 非系统性学习的题目
     - [左孩子右兄弟](OtherSolutions/LeftChildRightBrother.cpp)

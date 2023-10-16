@@ -16,4 +16,5 @@ add_executable(AlgorithmCpp main.cpp Basic/BasicAlgorithms/QuickSort/QuickSort.c
         Basic/SearchAndGraphTheory/SPFA/FindShortestPath.cpp
         Basic/SearchAndGraphTheory/SPFA/JudgmentNegativeLoop.cpp
         Basic/SearchAndGraphTheory/Floyd.cpp
-        Basic/SearchAndGraphTheory/Pirm.cpp)
+        Basic/SearchAndGraphTheory/Pirm.cpp
+        Basic/SearchAndGraphTheory/Kruskal.cpp)
