@@ -53,5 +53,6 @@
         - [Floyd](Basic/SearchAndGraphTheory/Floyd.cpp)
         - [Pirm](Basic/SearchAndGraphTheory/Pirm.cpp)
         - [Kruskal](Basic/SearchAndGraphTheory/Kruskal.cpp)
+        - [染色法判定二分图](Basic/SearchAndGraphTheory/ColoringMethod.cpp)
 - [其他题解](OtherSolutions) &#x2002; 非系统性学习的题目
     - [左孩子右兄弟](OtherSolutions/LeftChildRightBrother.cpp)
