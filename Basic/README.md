@@ -1,0 +1,56 @@
+# 算法基础课
+
+> 内容全部来自[`算法基础课`](https://www.acwing.com/activity/content/11/)
+
+- [基础算法](BasicAlgorithms) &#x2002;
+  包括排序、二分、高精度、前缀和与差分、双指针算法、位运算、离散化、区间合并等内容。
+- [数据结构](DataStructure) &#x2002;
+  包括单链表，双链表，栈，队列，单调栈，单调队列，KMP，Trie，并查集，堆，哈希表等内容。
+    - [单链表](DataStructure/SingleList.cpp)
+    - [`双链表`](https://www.acwing.com/activity/content/problem/content/864/) &#x2002; 太懒了，嫌麻烦没写
+    - [栈](DataStructure/Stack)
+        - [模拟栈](DataStructure/Stack/SimulationStack.cpp)
+        - [栈的应用：表达式求值](DataStructure/Stack/ExpressionEvaluation.cpp)
+    - [队列](DataStructure/Queue.cpp)
+    - [单调栈](DataStructure/MonotonicStack.cpp)
+    - [单调队列](DataStructure/MonotonicQueue.cpp)
+    - [KMP字符串](DataStructure/KMP.cpp)
+    - [Trie](DataStructure/Tire)
+        - [Trie字符串统计](DataStructure/Tire/StringStatistics.cpp)
+        - [最大异或对](DataStructure/Tire/MaximumXorPair.cpp)
+    - [并查集](DataStructure/AndLookup)
+        - [合并集合](DataStructure/AndLookup/MergeCollection.cpp)
+        - [连通块中点的数量](DataStructure/AndLookup/ConnectedBlockPointNum.cpp)
+        - [食物链](DataStructure/AndLookup/FoodChain.cpp)
+    - [堆](DataStructure/Heap)
+        - [堆排序](DataStructure/Heap/HeapSort.cpp)
+        - [模拟堆](DataStructure/Heap/MockHeap.cpp)
+    - [哈希表](DataStructure/Hash)
+        - [模拟散列表](DataStructure/Hash/AnalogHash.cpp)
+        - [字符串哈希](DataStructure/Hash/StringHash.cpp)
+- [搜索与图论](SearchAndGraphTheory) &#x2002;
+  包括DFS，BFS，树与图的深度优先遍历，树与图的广度优先遍历，拓扑排序，Dijkstra，bellman-ford，spfa，Floyd，Prim，Kruskal，染色法判定二分图，匈牙利算法等内容。
+    - [DFS](SearchAndGraphTheory/DFS)
+        - [排列数字](SearchAndGraphTheory/DFS/ArrangeNumbers.cpp)
+        - [n-皇后问题](SearchAndGraphTheory/DFS/NQueens.cpp)
+    - [BFS](SearchAndGraphTheory/BFS)
+        - [走迷宫](SearchAndGraphTheory/BFS/MazeWalking.cpp)
+        - [`八数码`](https://www.acwing.com/problem/content/847/) &#x2002; 太麻烦了，这个就不写了吧
+    - [树与图的深度优先遍历](SearchAndGraphTheory/DFS/DFS.cpp)
+    - [树与图的广度优先遍历](SearchAndGraphTheory/BFS/BFS.cpp)
+    - [拓扑排序](SearchAndGraphTheory/TopologicalSort.cpp)
+    - [Dijkstra](SearchAndGraphTheory/Dijkstra)
+        - [Dijkstra求最短路I](SearchAndGraphTheory/Dijkstra/DijkstraI.cpp)
+        - [Dijkstra求最短路II](SearchAndGraphTheory/Dijkstra/DijkstraII.cpp)
+    - [bellman ford](SearchAndGraphTheory/BellmanFord.cpp)
+    - [spfa](SearchAndGraphTheory/SPFA)
+        - [spfa求最短路](SearchAndGraphTheory/SPFA/FindShortestPath.cpp)
+        - [spfa判断负环](SearchAndGraphTheory/SPFA/JudgmentNegativeLoop.cpp)
+    - [Floyd](SearchAndGraphTheory/Floyd.cpp)
+    - [Pirm](SearchAndGraphTheory/Pirm.cpp)
+    - [Kruskal](SearchAndGraphTheory/Kruskal.cpp)
+    - [染色法判定二分图](SearchAndGraphTheory/ColoringMethod.cpp)
+    - [匈牙利算法](SearchAndGraphTheory/HungarianAlgorithm.cpp)
+- [数学知识](MathematicalKnowledge)
+    - [质数](MathematicalKnowledge/PrimeNumbers)
+        - [试除法判定质数](MathematicalKnowledge/PrimeNumbers/TrialDivision.cpp)
