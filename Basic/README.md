@@ -54,3 +54,5 @@
 - [数学知识](MathematicalKnowledge)
     - [质数](MathematicalKnowledge/PrimeNumbers)
         - [试除法判定质数](MathematicalKnowledge/PrimeNumbers/TrialDivision.cpp)
+        - [分解质因数](MathematicalKnowledge/PrimeNumbers/FactoringPrimeFactors.cpp)
+        - 
