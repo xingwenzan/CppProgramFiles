@@ -55,4 +55,6 @@
     - [质数](MathematicalKnowledge/PrimeNumbers)
         - [试除法判定质数](MathematicalKnowledge/PrimeNumbers/TrialDivision.cpp)
         - [分解质因数](MathematicalKnowledge/PrimeNumbers/FactoringPrimeFactors.cpp)
-        - 
+        - [筛质数](MathematicalKnowledge/PrimeNumbers/SievePrimeNumber)
+            - [朴素法](MathematicalKnowledge/PrimeNumbers/SievePrimeNumber/Simple.cpp)
+            - [线性法](MathematicalKnowledge/PrimeNumbers/SievePrimeNumber/Linear.cpp)
