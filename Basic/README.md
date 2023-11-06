@@ -58,3 +58,5 @@
         - [筛质数](MathematicalKnowledge/PrimeNumbers/SievePrimeNumber)
             - [朴素法](MathematicalKnowledge/PrimeNumbers/SievePrimeNumber/Simple.cpp)
             - [线性法](MathematicalKnowledge/PrimeNumbers/SievePrimeNumber/Linear.cpp)
+    - [约数](MathematicalKnowledge/Approximation)
+        - [试除法求约数](MathematicalKnowledge/Approximation/TrialDivision.cpp)
