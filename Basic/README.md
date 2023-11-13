@@ -61,3 +61,4 @@
     - [约数](MathematicalKnowledge/Approximation)
         - [试除法求约数](MathematicalKnowledge/Approximation/TrialDivision.cpp)
         - [约数个数](MathematicalKnowledge/Approximation/ApproximateNumber.cpp)
+        - [约数之和](MathematicalKnowledge/Approximation/DivisorsSum.cpp)
