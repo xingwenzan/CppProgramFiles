@@ -65,3 +65,4 @@
         - [最大公约数](MathematicalKnowledge/Approximation/GreatestCommonDivisor.cpp)
     - [欧拉函数](MathematicalKnowledge/EulerFunction)
         - [欧拉函数](MathematicalKnowledge/EulerFunction/EulerFunction.cpp)
+        - [筛法求欧拉函数](MathematicalKnowledge/EulerFunction/Linear.cpp)
