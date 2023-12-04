@@ -69,3 +69,5 @@
     - [快速幂](MathematicalKnowledge/FastPower)
         - [快速幂](MathematicalKnowledge/FastPower/FastPower.cpp)
         - [快速幂求逆元](MathematicalKnowledge/FastPower/FindInverseElement.cpp)
+    - [扩展欧几里得算法](MathematicalKnowledge/ExtendedEuclideanAlgorithm)
+        - [扩展欧几里得算法](MathematicalKnowledge/ExtendedEuclideanAlgorithm/ExtendedEuclideanAlgorithm.cpp)
