@@ -73,3 +73,5 @@
         - [扩展欧几里得算法](MathematicalKnowledge/ExtendedEuclideanAlgorithm/ExtendedEuclideanAlgorithm.cpp)
         - [线性同余方程](MathematicalKnowledge/ExtendedEuclideanAlgorithm/LinearCongruenceEquation.cpp)
     - [中国剩余定理](MathematicalKnowledge/ChineseRemainderTheorem.cpp)
+    - [求组合数](MathematicalKnowledge/CombinationNumber)
+        - [求组合数 I](MathematicalKnowledge/CombinationNumber/CI.cpp)
