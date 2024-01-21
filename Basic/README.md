@@ -75,3 +75,4 @@
     - [中国剩余定理](MathematicalKnowledge/ChineseRemainderTheorem.cpp)
     - [求组合数](MathematicalKnowledge/CombinationNumber)
         - [求组合数 I](MathematicalKnowledge/CombinationNumber/CI.cpp)
+        - [求组合数 II](MathematicalKnowledge/CombinationNumber/CII.cpp)
