@@ -77,3 +77,4 @@
         - [求组合数 I](MathematicalKnowledge/CombinationNumber/CI.cpp)
         - [求组合数 II](MathematicalKnowledge/CombinationNumber/CII.cpp)
         - [求组合数 III](MathematicalKnowledge/CombinationNumber/CIII.cpp)
+        - [求组合数 IV](MathematicalKnowledge/CombinationNumber/CIV.cpp)
