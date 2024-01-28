@@ -78,3 +78,4 @@
         - [求组合数 II](MathematicalKnowledge/CombinationNumber/CII.cpp)
         - [求组合数 III](MathematicalKnowledge/CombinationNumber/CIII.cpp)
         - [求组合数 IV](MathematicalKnowledge/CombinationNumber/CIV.cpp)
+        - [满足条件的01序列](MathematicalKnowledge/CombinationNumber/Sequence01.cpp)
