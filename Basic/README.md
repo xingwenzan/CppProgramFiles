@@ -79,3 +79,4 @@
         - [求组合数 III](MathematicalKnowledge/CombinationNumber/CIII.cpp)
         - [求组合数 IV](MathematicalKnowledge/CombinationNumber/CIV.cpp)
         - [满足条件的01序列](MathematicalKnowledge/CombinationNumber/Sequence01.cpp)
+    - [容斥原理](MathematicalKnowledge/InclusionExclusionPrinciple.cpp)
