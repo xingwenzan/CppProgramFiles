@@ -82,3 +82,4 @@
     - [容斥原理](MathematicalKnowledge/InclusionExclusionPrinciple.cpp)
     - [博弈论](MathematicalKnowledge/GameTheory)
         - [Nim游戏](MathematicalKnowledge/GameTheory/NimGames.cpp)
+        - [台阶-Nim游戏](MathematicalKnowledge/GameTheory/StairsNimGames.cpp)
