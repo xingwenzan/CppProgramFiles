@@ -21,13 +21,13 @@ bool add(SqList &s,int e){
 
 void outSqList(SqList s){
     if (s.length==0){
-        printf("¿Õ±í\n");
+        printf("ç©ºè¡¨\n");
         return;
     }
     for (int i = 0; i < s.length; ++i) {
         printf("%d ",s.data[i]);
     }
-    printf("\n±í³¤£º%d\n",s.length);
+    printf("\nè¡¨é•¿ï¼š%d\n",s.length);
 }
 
 
@@ -57,17 +57,17 @@ void check(SqList &s,int x){
 
 int main(){
     int tmp;
-    // ³õÊ¼»¯
+    // åˆå§‹åŒ–
     initList(S);
     scanf("%d",&tmp);
     while (tmp!=9999 && add(S,tmp))scanf("%d",&tmp);
 
     scanf("%d",&tmp);
 
-    // Ê¹ÓÃ
-    printf("²Ù×÷Ç°:\n");
+    // ä½¿ç”¨
+    printf("æ“ä½œå‰:\n");
     outSqList(S);
-    printf("²Ù×÷ºó:\n");
+    printf("æ“ä½œåŽ:\n");
     check(S,tmp);
     outSqList(S);
 }
